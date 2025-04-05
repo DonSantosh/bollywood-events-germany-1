@@ -1,1 +1,1 @@
-# Bollywood Events in Germany\nA modern event website built with Next.js and Tailwind CSS.
+# Bollywood Events in Germany\nA modern Next.js + Tailwind CSS site with a smooth animated logo using Framer Motion.
