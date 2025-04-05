@@ -1,1 +1,1 @@
-# bollywood-events-germany
+# Bollywood Events in Germany\nA modern event website built with Next.js and Tailwind CSS.
