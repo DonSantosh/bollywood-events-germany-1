@@ -3,18 +3,25 @@ import { motion } from 'framer-motion';
 export default function Home() {
   return (
     <div className="bg-white text-gray-800 min-h-screen font-sans">
-      <header className="flex justify-between items-center p-6 shadow-md">
-        <div className="flex items-center gap-3">
-          <img src="/logo.png" alt="Logo" className="w-12 h-12 rounded-full" />
-          <h1 className="text-2xl font-bold">Bollywood Events in Germany</h1>
-        </div>
-        <a
-          href="mailto:booking@bollywood-events-germany.com"
-          className="text-sm text-purple-700 hover:underline"
-        >
-          booking@bollywood-events-germany.com
-        </a>
-      </header>
+      
+<header className="flex justify-between items-center p-6 shadow-md">
+  <motion.div
+    className="flex items-center gap-3"
+    initial={{ scale: 0.5, opacity: 0 }}
+    animate={{ scale: 1, opacity: 1 }}
+    transition={{ duration: 1, ease: 'easeOut' }}
+  >
+    <img src="/logo.png" alt="Logo" className="w-12 h-12 rounded-full" />
+    <h1 className="text-2xl font-bold">Bollywood Events in Germany</h1>
+  </motion.div>
+  <a
+    href="mailto:booking@bollywood-events-germany.com"
+    className="text-sm text-purple-700 hover:underline"
+  >
+    booking@bollywood-events-germany.com
+  </a>
+</header>
+
 
       <main className="p-8">
         <section className="text-center py-12">
