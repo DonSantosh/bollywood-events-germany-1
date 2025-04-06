@@ -1,2 +1,2 @@
 # Bollywood Events in Germany
-Professional homepage with 'About Nupur Thakur' section and clean, elegant design.
+Includes updated email: booking@bollywood-events-germany.com
