@@ -1,1 +1,2 @@
-# Bollywood Events in Germany\nA modern Next.js + Tailwind CSS site with a smooth animated logo using Framer Motion.
+# Bollywood Events in Germany
+Professional homepage with 'About Nupur Thakur' section and clean, elegant design.
