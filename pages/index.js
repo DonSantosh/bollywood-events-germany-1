@@ -21,24 +21,10 @@ export default function Home() {
     booking@bollywood-events-germany.com
   </a>
     <div className="mt-4">
-      <a
-        href="https://wa.me/4917643146601"
-        target="_blank"
-        rel="noopener noreferrer"
-        className="inline-block px-6 py-3 bg-green-500 text-white rounded-full hover:bg-green-600 transition mt-2"
-      >
-        Chat on WhatsApp
-      </a>
+      
     </div>
     <div className="mt-4">
-      <a
-        href="https://wa.me/4917643146601"
-        target="_blank"
-        rel="noopener noreferrer"
-        className="inline-block px-6 py-3 bg-green-500 text-white rounded-full hover:bg-green-600 transition"
-      >
-        Chat on WhatsApp
-      </a>
+      
     </div>
 </header>
 
@@ -73,24 +59,10 @@ export default function Home() {
     Contact Us
   </a>
     <div className="mt-4">
-      <a
-        href="https://wa.me/4917643146601"
-        target="_blank"
-        rel="noopener noreferrer"
-        className="inline-block px-6 py-3 bg-green-500 text-white rounded-full hover:bg-green-600 transition mt-2"
-      >
-        Chat on WhatsApp
-      </a>
+      
     </div>
     <div className="mt-4">
-      <a
-        href="https://wa.me/4917643146601"
-        target="_blank"
-        rel="noopener noreferrer"
-        className="inline-block px-6 py-3 bg-green-500 text-white rounded-full hover:bg-green-600 transition"
-      >
-        Chat on WhatsApp
-      </a>
+      
     </div>
 </section>
 
